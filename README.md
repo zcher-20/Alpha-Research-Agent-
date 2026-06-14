@@ -21,25 +21,13 @@ Given a company name or stock ticker, the system:
 
 ## Features
 
-### Macro Analyst
-
-Evaluates macroeconomic conditions, industry trends, interest rates, and broader market factors affecting the company.
-
-### Fundamental Analyst
-
-Reviews business model, competitive advantages, financial performance, growth drivers, and valuation considerations.
-
-### Risk Analyst
-
-Identifies key risks, concentration concerns, regulatory issues, geopolitical exposure, and downside scenarios.
-
-### Market Sentiment Analyst
-
-Assesses analyst sentiment, recent news, investor positioning, and market perception.
-
-### Committee Chair
-
-Aggregates analyst findings, resolves disagreements, conducts committee voting, and issues the final recommendation.
+| Agent | Responsibility |
+|---------|---------------|
+| **Macro Analyst** | Evaluates macroeconomic conditions, industry trends, interest rates, and broader market factors affecting the company. |
+| **Fundamental Analyst** | Reviews the business model, competitive advantages, financial performance, growth drivers, and valuation considerations. |
+| **Risk Analyst** | Identifies key risks, concentration concerns, regulatory issues, geopolitical exposure, and downside scenarios. |
+| **Market Sentiment Analyst** | Assesses analyst sentiment, recent news, investor positioning, and overall market perception. |
+| **Committee Chair** | Aggregates analyst findings, resolves disagreements, conducts committee voting, and issues the final investment recommendation. |
 
 ## Workflow
 
