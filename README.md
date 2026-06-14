@@ -19,8 +19,6 @@ Given a company name or stock ticker, the system:
 * Synthesizes findings through a committee-style decision process
 * Produces a professional investment research memo
 
-<img width="1304" height="792" alt="Screenshot 2026-06-13 at 11 48 18 PM" src="https://github.com/user-attachments/assets/ca6cf25f-6d3b-4ccb-b9dd-947109c75242" /> 
-
 ## Features
 
 ### Macro Analyst
