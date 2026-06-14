@@ -8,7 +8,7 @@ The platform simulates an institutional investment committee by combining multip
 
 ## Overview
 
-Traditional investment research requires analysts to evaluate opportunities from multiple perspectives before making a recommendation. Alpha Research Agent recreates this workflow using AI agents that specialize in different areas of financial analysis.
+Traditional investment research requires analysts to evaluate opportunities from multiple perspectives before making a recommendation. Alpha Research Agent recreates this workflow using AI agents that specialize in different areas of financial analysis. Rather than relying on a single AI response, Alpha Research Agent simulates an institutional investment committee. Specialized analysts evaluate the company from different perspectives before a Committee Chair synthesizes the findings and issues a final recommendation.
 
 Given a company name or stock ticker, the system:
 
