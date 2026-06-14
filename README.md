@@ -1,3 +1,5 @@
+
+
 # Alpha Research Agent
 
 **Alpha Research Agent** is a multi-agent investment research system built using Microsoft Foundry as part of the **Microsoft AI Agents League Hackathon (Reasoning Agents Track)**.
@@ -16,6 +18,8 @@ Given a company name or stock ticker, the system:
 * Analyzes recent developments and sentiment
 * Synthesizes findings through a committee-style decision process
 * Produces a professional investment research memo
+
+<img width="1304" height="792" alt="Screenshot 2026-06-13 at 11 48 18 PM" src="https://github.com/user-attachments/assets/ca6cf25f-6d3b-4ccb-b9dd-947109c75242" /> 
 
 ## Features
 
@@ -72,6 +76,8 @@ Investment Memo
 ```text
 Analyze NVIDIA (NVDA)
 ```
+<img width="1415" height="987" alt="Screenshot 2026-06-13 at 11 38 28 PM" src="https://github.com/user-attachments/assets/7a9bf150-4d05-485f-9d28-32dda5de00a2" />
+
 
 ## Example Output
 
@@ -84,6 +90,9 @@ Analyze NVIDIA (NVDA)
 * Committee Vote
 * Investment Recommendation
 * Confidence Score
+
+<img width="1415" height="987" alt="Screenshot 2026-06-13 at 11 41 30 PM" src="https://github.com/user-attachments/assets/7675e574-165d-49a2-9d55-0cc6966405f5" />
+
 
 ## Technology Stack
 
