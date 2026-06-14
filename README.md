@@ -45,31 +45,9 @@ Aggregates analyst findings, resolves disagreements, conducts committee voting, 
 
 ## Workflow
 
-```text
-User Query
-     │
-     ▼
-Alpha Research Agent
-     │
-     ▼
-┌───────────────────────────────┐
-│      Analyst Committee        │
-├───────────────────────────────┤
-│ • Macro Analyst               │
-│ • Fundamental Analyst         │
-│ • Risk Analyst                │
-│ • Market Sentiment Analyst    │
-└───────────────────────────────┘
-     │
-     ▼
-Committee Voting
-     │
-     ▼
-Committee Chair
-     │
-     ▼
-Investment Memo
-```
+
+<img width="507" height="572" alt="Screenshot 2026-06-14 at 12 07 53 AM" src="https://github.com/user-attachments/assets/e413ee5b-4aa5-4172-bfab-a7959527763b" />
+
 
 ## Example Query
 
